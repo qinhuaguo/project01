@@ -15,6 +15,12 @@ public class Helloworld {
         System.out.println("args = [" + args + "]");
         System.out.println("Helloworld.main");
         System.out.println("true = " + true);
+        System.out.println("true = " + true);
+        System.out.println("true = " + true);
+        System.out.println("true = " + true);
+        System.out.println("true = " + true);
+
+
 
 
         String arr[] = new String[]{"A0","A1","A2"};
@@ -86,6 +92,8 @@ class MothodTest {
     public void test2(String str, int i) {
 
         try {
+            System.out.println();
+            System.out.println();
             System.out.println();
         } catch (Exception e) {
             e.printStackTrace();
